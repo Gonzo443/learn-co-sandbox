@@ -1,0 +1,9 @@
+function sayHelloToIsabel() {
+  console.log("Hello, Isabel!")
+}
+function sayHelloToBrendan() {
+  console.log("Hello, Brendan!")
+}
+function sayHelloToSofia() {
+  console.log("Hello, Sofia!")
+}
